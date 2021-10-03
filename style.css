@@ -38,6 +38,7 @@ header.top-menu {
 	padding: 8px 0 8px 0;
 	height: 3em;
 	margin-bottom: 0;
+	width: 100%;
 }
 
 ul.top-menu-items > li {
