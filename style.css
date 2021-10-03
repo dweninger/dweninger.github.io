@@ -33,6 +33,12 @@ ul.top-menu-items {
 	bottom: 1em;
 }
 
+nav.top-nav {
+	display: table;  
+	margin: 0 auto;
+	width: 90%;
+}
+
 header.top-menu {
 	background-color: #21C119;
 	padding: 8px 0 8px 0;
