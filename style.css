@@ -36,7 +36,7 @@ ul.top-menu-items {
 header.top-menu {
 	background-color: #21C119;
 	padding: 8px 0 8px 0;
-	height: 2em;
+	height: 3em;
 	margin-bottom: 0;
 }
 
@@ -50,7 +50,7 @@ ul.top-menu-items > li {
 ul.top-menu-items > li > a {
 	color: black;
 	text-decoration: none;
-	font-size: 22px;
+	font-size: 34px;
 	margin-top: 10px;
 }
 
@@ -63,6 +63,7 @@ ul.top-menu-items > li:first-child{
 	font-family: 'Dancing Script', cursive;
 	font-weight: 500;
 	padding-left: 0;
+	padding-right: 1em;
 }
 
 a.go-link:hover {
@@ -75,7 +76,7 @@ footer {
 	background-color: #21C119;
 	bottom: 0;
 	width: 100%;
-	padding-top: 10px;
+	height: 5em;
 }
 
 footer > div.mission-socials {
@@ -88,7 +89,7 @@ div.socials{
 	position: relative;
 	float: right;
 	font-weight: bold;
-	font-size: 16pt;
+	font-size: 21pt;
 }
 
 span.soc-label {
@@ -98,7 +99,7 @@ span.soc-label {
 nav.social-links > ul {
 	padding-left: 0;
 	padding-top: 0;
-	margin-top: 5px;
+	margin-top: 2px;
 }
 
 nav.social-links > ul > li {
