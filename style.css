@@ -40,7 +40,7 @@ nav.top-nav {
 }
 
 header.top-menu {
-	background-color: #21C119;
+	background-color: #357ea6;
 	padding: 8px 0 8px 0;
 	height: 3em;
 	margin-bottom: 0;
@@ -82,7 +82,7 @@ footer {
 	position: fixed;
 	left: 0;
 	bottom: 0;
-	background-color: #21C119;
+	background-color: #357ea6;
 	width: 100%;
 }
 
